@@ -1,0 +1,13 @@
+- Computer Program is like a Recipe
+- When you write code you need to be very very explicit about what the computer should do
+
+- The code we write is source code
+- Source Code is generally higher level than computer code (understanable by humans)
+- We write code in Editors they are specifically designed to write "Recipes" in a specific programming language
+- Source Code needs to be translated into form that's understandable by computers (object code)
+- Compiler is the translator for Source code to object code
+- Linker links all our object code and others in form of libraries and creates an executable Program
+
+Editor (To Enter our Code or edit existing code) -> Compiler (if there are no mistakes in the source code the compiler will generate a object code file for every source code file) -> Linker (Links our object files and external libraries togehter) -> EXECUTABLE FILE
+
+- C++ file extentions (.cpp | .h | .cc | .hpp ...)
