@@ -1,3 +1,0 @@
-C:/Dev/C++ Development/CppUdemyCourse/Section7Challenge/cmake-build-debug/CMakeFiles/Section7Challenge.dir
-C:/Dev/C++ Development/CppUdemyCourse/Section7Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Dev/C++ Development/CppUdemyCourse/Section7Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
